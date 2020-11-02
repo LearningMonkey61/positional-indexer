@@ -3,7 +3,18 @@
 
 [![Swapnil Sahu](https://img.shields.io/static/v1?label=status&message=work%20in%20progress&color=red&style=for-the-badge&logo=github "Swapnil Sahu")](https://github.com/LearningMonkey61)
 
-A simple indexer designed for the Cranfield 1400 Dataset, which was precompiled, cleaned up and put into a JSON foramt.
+####  WEB SEARCH AND MINING ASSIGNMENT
+__Team Members__
+
+>Swapnil Sahu [B118061]
+
+>Swapnil Kole [B118060]
+
+>Shubham Mishra [B118058]
+
+>Shubham Hazra [B118057]
+
+A simple indexer designed for the Cranfield 1400 Dataset, which was precompiled, cleaned up and put into a JSON format.
 
 ``` json
     [
