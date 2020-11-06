@@ -45,7 +45,7 @@ def Indexer():
         choice = input("Index Already created. Override? (Y|N)")
         if(choice == 'y' or choice == 'Y'):
             with open('index.txt', 'w') as fp:
-                json.dump(positional_index, fp, indent=2)
+                json.dump(positional_index, fp)
 
     return positional_index
 
